@@ -16,14 +16,14 @@ Communication and quality assurance are deeply embedded in OctoAcme's processes.
 
 ### Overview and Core Concepts
 - [Project Management Overview](octoacme-project-management-overview.md) - High-level introduction to OctoAcme's project management approach, principles, core roles, and lifecycle
-- [Roles and Personas](octoacme-roles-and-personas.md) - Detailed definitions of team roles including Developers, Product Managers, and Project Managers
+- [Roles and Personas](octoacme-roles-and-personas.md) - Detailed definitions of all team roles including Developers, Product Managers, Project Managers, Scrum Masters, Business Analysts, UX Designers, Security Leads, and Customer Success Managers, with inter-role interaction patterns
 
 ### Project Lifecycle Phases
-- [Project Initiation](octoacme-project-initiation.md) - Initial validation, stakeholder alignment, and project one-pager creation
+- [Project Initiation](octoacme-project-initiation.md) - Initial validation, stakeholder alignment, project one-pager creation, stakeholder analysis, and comprehensive role-specific onboarding checklists
 - [Project Planning](octoacme-project-planning.md) - Backlog creation, estimation, sprint planning, and dependency management
-- [Execution and Tracking](octoacme-execution-and-tracking.md) - Day-to-day workflows, team rhythm, quality practices, and progress tracking
+- [Execution and Tracking](octoacme-execution-and-tracking.md) - Day-to-day workflows, team rhythm, quality practices, progress tracking, role-specific handoff checklists, and detailed escalation paths with role involvement
 - [Release and Deployment](octoacme-release-and-deployment.md) - Standardized release procedures, deployment checklists, and rollback strategies
 - [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning capture and actionable improvement processes
 
 ### Cross-Cutting Practices
-- [Risk Management and Communication](octoacme-risks-and-communication.md) - Risk identification, assessment, stakeholder communication, and escalation paths
+- [Risk Management and Communication](octoacme-risks-and-communication.md) - Risk identification, assessment, stakeholder communication, escalation paths, RACI matrix for role responsibilities, and role-specific communication templates
